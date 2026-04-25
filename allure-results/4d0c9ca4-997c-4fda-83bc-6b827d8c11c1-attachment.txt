@@ -1,0 +1,21 @@
+Your Account Has Been Created!
+ ✅ Registration is successfull......!!
+ ✅Logout is successfull......!!
+Exception occurred while clicking 'Login': Error: locator.click: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('a:has-text("Login")')
+    - locator resolved to <a href="http://localhost/opencart/upload/index.php?route=account/login">Login</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    44 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
