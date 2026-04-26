@@ -36,7 +36,7 @@ for (const data of jsontestdata){
         if(data.expected.toLowerCase() === "success"){
             accountpage = new AccountPage(page)
             const IsloggedIn = await accountpage.Ismyaccountexists()
-            expect(IsloggedIn).toBeTruthy()
+            expect(IsloggedIn).toBe(true)
         }else{
             const errormsg = await loginpage.verifyerrorlogin()
             console.log(errormsg)

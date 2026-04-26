@@ -84,7 +84,7 @@ test('Login into Account  @master @regression', async()=>{
 
     // Verifying whether the MyAccount is visible
     const IsloggedIn = await accountpage.Ismyaccountexists()
-    expect(IsloggedIn).toBeTruthy()
+    expect(IsloggedIn).toBe(true)
 
 })
 

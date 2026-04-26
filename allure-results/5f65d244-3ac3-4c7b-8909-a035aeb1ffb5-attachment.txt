@@ -1,0 +1,8 @@
+Your Account Has Been Created!
+ ✅ Registration is successfull......!!
+ ✅Logout is successfull......!!
+✅Login is successfull......!!
+Success: You have added MacBook to your shopping cart!
+×
+✅ Product selected successfully......!!
+✅Price is verified.......!!

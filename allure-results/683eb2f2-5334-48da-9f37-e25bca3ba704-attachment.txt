@@ -1,0 +1,6 @@
+No.of products returned are: 3
+Confirmation message not found: Error: locator.innerText: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('.alert.alert-success.alert-dismissible')
+
+Confirmation message not found: Error: locator.innerText: Target page, context or browser has been closed

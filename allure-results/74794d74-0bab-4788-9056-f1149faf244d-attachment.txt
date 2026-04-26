@@ -1,0 +1,4 @@
+Your Account Has Been Created!
+ ✅ Registration is successfull......!!
+ ✅Logout is successfull......!!
+✅Login is successfull......!!
